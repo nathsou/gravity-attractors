@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build --base=/fractals/",
+    "build": "tsc && vite build --base=/gravity-attractors/",
     "serve": "vite preview"
   },
   "devDependencies": {
