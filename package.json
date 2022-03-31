@@ -1,0 +1,20 @@
+{
+  "name": "gravity-attractors",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build --base=/fractals/",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3",
+    "vite": "^2.9.1",
+    "tweakpane": "^3.0.8",
+    "@tweakpane/core": "^1.0.9"
+  },
+  "author": {
+    "name": "Nathan Soufflet",
+    "url": "https://github.com/nathsou"
+  },
+  "license": "MIT"
+}
